@@ -12,8 +12,13 @@ Savings Definition
 
 - **P&L Savings**: Initiatives that lead to savings that don’t directly impact the *P&L*, such as reducing capital costs, do not count as “Productivity” in this context. They have their own framework [#]_.
 
+**Note**
+
+- In order to be able to measure savings, a **Baseline** needs to be established to be able to measure the savings/contribution from a validated position
+- **Baseline**: Current actual cost of item being purchased as validated by finance
 
 **Note**
+
 - In order to properly define the contribution made by the procurement function, we need to clearly define the different frameworks under which we would want to measure the contribution made by Procurement. 
 
 .. [#] Capex Framework, Project Bid Framework etc.
